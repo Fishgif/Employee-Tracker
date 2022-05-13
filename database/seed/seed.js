@@ -1,5 +1,5 @@
 const {faker} = require('@faker-js/faker');
-const { addDepartment } = require('../operations/departments');
+const { addDepartment } = require('../../operations/departments');
 
 
 
