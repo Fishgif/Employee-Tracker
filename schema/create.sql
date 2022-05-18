@@ -1,3 +1,5 @@
+
+DROP schema if exists `employee_cms`;
 CREATE SCHEMA `employee_cms` ;
 
 

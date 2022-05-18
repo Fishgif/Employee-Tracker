@@ -14,8 +14,6 @@ async function seedDepartments(){
         
         
     }
-
-
 }
 
 async function seed(){
@@ -26,6 +24,10 @@ async function seed(){
 
 }
 
+module.exports = {
 
+    seedDepartments
+}
 
 seed();
+
