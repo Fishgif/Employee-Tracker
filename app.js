@@ -6,7 +6,7 @@ const {getAllRoles} = require('./operations/roles');
 
 
 
-// we want to keep asking the foloowing question 
+// we want to keep asking the following question 
 // until the user selected "exit"
 
 function askQuestion(){
