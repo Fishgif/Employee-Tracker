@@ -16,7 +16,9 @@ The challenge is to architect and build a solution for managing a company's empl
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Test](#test)
+- [Testing](#testing)
+- [Developer](#developer)
+- [Git Hub](#git_hub_repo)
 
 
 ## Installation
@@ -41,7 +43,7 @@ As a business owner
 I want to be able to view and manage the departments, roles, and employees of my company.
 
 ### Video
-[![a video walkthrough of the Employee-Tracker](./assets/images/home_screen.png)](https://www.youtube.com/watch?v=Qd0pY4pHnYo "Employee-Tracker App")
+[![a video walkthrough of the Employee-Tracker](./assets/images/home_screen.png)](https://www.youtube.com/watch?v=zzAQkON1fb4 "Employee-Tracker App")
 
 https://youtu.be/zzAQkON1fb4
 
